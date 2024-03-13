@@ -1,0 +1,20 @@
+---
+title: "Tutorial 9: To what extent do you think we should let the data speak for themselves? "
+format: pdf
+editor: visual
+author: Harrison Huang
+date: March 12, 2024
+bibliography: tut9bib.bib
+---
+
+
+# Introduction 
+But what if you’re doing a linguistic study? Those typos are actually extremely valuable to you. Normalizing that variation away would make any analysis on that front impossible. If we didn’t store the original data (which is recommended best practice that only some people follow), it would forever be lost.
+
+# Introduction
+As an example, one of the largest data generation/collection systems on the planet, the Large Hadron Collider generates so much data it’s impossible to store in raw form. So physicists spent untold amounts of thinking and energy, drawing upon decades of domain-specific knowledge, to create custom algorithms to filter and preselect what to even record. It’s built to purpose —they literally designed and control the entire toolchain down to the hardware.
+
+
+# Introduction
+Goal 1: Fix things that will make your analysis algorithm choke Goal 2: Reduce Unwanted Variation Goal 3: Eliminate Bias (where you can)
+
