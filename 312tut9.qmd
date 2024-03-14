@@ -25,4 +25,7 @@ However, Randy also mentioned that if we are doing an linguistic study? The exam
 # Conclusions
 Finally, my personal thoughts on this topic is that we should allow the data to speak as much as it could. Even if we need to collect and do our own work, we must respect the data set and allow reproducibility for the next person. The original data should remain untouched as much as possible. 
 
+
+# References
+
 \newpage
